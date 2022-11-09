@@ -1,2 +1,7 @@
 server:
   port: 8081
+wx:
+  miniapp:
+    configs:
+      appid: 123123sss
+appp: ddddd
